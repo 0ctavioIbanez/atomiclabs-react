@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/atomiclabs-react/static/css/main.0b1821da.chunk.css",
+    "main.js": "/atomiclabs-react/static/js/main.934965dc.chunk.js",
+    "main.js.map": "/atomiclabs-react/static/js/main.934965dc.chunk.js.map",
+    "runtime-main.js": "/atomiclabs-react/static/js/runtime-main.06483c14.js",
+    "runtime-main.js.map": "/atomiclabs-react/static/js/runtime-main.06483c14.js.map",
+    "static/js/2.1899c771.chunk.js": "/atomiclabs-react/static/js/2.1899c771.chunk.js",
+    "static/js/2.1899c771.chunk.js.map": "/atomiclabs-react/static/js/2.1899c771.chunk.js.map",
+    "index.html": "/atomiclabs-react/index.html",
+    "precache-manifest.07694ccf2cc4c6c191545228ad27386b.js": "/atomiclabs-react/precache-manifest.07694ccf2cc4c6c191545228ad27386b.js",
+    "service-worker.js": "/atomiclabs-react/service-worker.js",
+    "static/css/main.0b1821da.chunk.css.map": "/atomiclabs-react/static/css/main.0b1821da.chunk.css.map",
+    "static/js/2.1899c771.chunk.js.LICENSE.txt": "/atomiclabs-react/static/js/2.1899c771.chunk.js.LICENSE.txt",
+    "static/media/Group_4032.png": "/atomiclabs-react/static/media/Group_4032.664f3dbd.png",
+    "static/media/Group_4033.png": "/atomiclabs-react/static/media/Group_4033.af1e2266.png",
+    "static/media/Group_4035.png": "/atomiclabs-react/static/media/Group_4035.7994bdeb.png",
+    "static/media/Group_4036.png": "/atomiclabs-react/static/media/Group_4036.eb5c2125.png",
+    "static/media/Group_4037.png": "/atomiclabs-react/static/media/Group_4037.ac405c4a.png",
+    "static/media/Group_4040.png": "/atomiclabs-react/static/media/Group_4040.57587e84.png",
+    "static/media/Group_4041.png": "/atomiclabs-react/static/media/Group_4041.d9d7815d.png",
+    "static/media/Group_4042.png": "/atomiclabs-react/static/media/Group_4042.9eaf1b7a.png",
+    "static/media/Group_4043.png": "/atomiclabs-react/static/media/Group_4043.707215d2.png",
+    "static/media/index.css": "/atomiclabs-react/static/media/Mask_Group_1.ff1a4d4f.png",
+    "static/media/footer.jpg": "/atomiclabs-react/static/media/footer.e8076c13.jpg",
+    "static/media/logo.webp": "/atomiclabs-react/static/media/logo.da84857e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06483c14.js",
+    "static/js/2.1899c771.chunk.js",
+    "static/css/main.0b1821da.chunk.css",
+    "static/js/main.934965dc.chunk.js"
+  ]
+}
